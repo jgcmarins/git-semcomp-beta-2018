@@ -1,1 +1,2 @@
+Talk: https://docs.google.com/presentation/d/1MaFbsyfaHECNx-Yhr4rhajTJwI3pTQfxsa_omt6g4JU/edit?usp=sharing
 Tech Talk: Linus Torvalds on git: https://www.youtube.com/watch?v=4XpnKHJAok8

@@ -1,0 +1,21 @@
+history
+- linus
+- existing tools
+git
+- branch system
+- concurrency
+- commit
+- pull requests
+- merge (get shit done)
+writing a software
+- introducing features to a code base
+- team work
+- code review
+best practices
+- 7 rules
+- branch naming
+- promote to production
+tools
+- ssh
+- alias
+hands on

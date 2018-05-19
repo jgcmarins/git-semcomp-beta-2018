@@ -28,3 +28,4 @@ hands on
 - master vs production
 - mono repo
 challenge
+testando topics.txt

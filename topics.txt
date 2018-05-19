@@ -1,12 +1,17 @@
 history
 - linus
-- existing tools
+- writing an OS
+- existing tools: cvs, bitkeeper
 git
-- branch system
 - concurrency
+- branch system
+- distributed system
+- remotes
 - commit
+- push
 - pull requests
 - merge (get shit done)
+- resolving conflicts
 writing a software
 - introducing features to a code base
 - team work
@@ -19,3 +24,7 @@ tools
 - ssh
 - alias
 hands on
+- presence list
+- master vs production
+- mono repo
+challenge
